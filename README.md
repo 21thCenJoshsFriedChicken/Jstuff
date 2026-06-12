@@ -4,11 +4,11 @@
 
 # Social Media
 
-Youtube:
+- Youtube:
 www.youtube.com/@Quackerzin
-Instagram:
+- Instagram:
 https://www.instagram.com/massivemango__0?igsh=ZWR5cjJnenFrY25p
-Tiktok:
+- Tiktok:
 tiktok.com/@kuna_099
 
 # I Put Random Stuff Here
