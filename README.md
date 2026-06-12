@@ -5,24 +5,24 @@
 # Social Media
 
 - Youtube:
-www.youtube.com/@Quackerzin
+
 - Instagram:
-https://www.instagram.com/massivemango__0?igsh=ZWR5cjJnenFrY25p
+
 - Tiktok:
 tiktok.com/@kuna_099
 
 # I Put Random Stuff Here
 
 <div align="center">
-  <a href="https://github.com">
-    <img src="https://shields.io" alt="GitHub Profile"/>
+  <a href="www.youtube.com/@Quackerzin">
+    <img src="https://shields.io" alt="Youtube"/>
   </a>
   
-  <a href="https://linkedin.com">
-    <img src="https://shields.io" alt="LinkedIn Profile"/>
+  <a href="tiktok.com/@kuna_099">
+    <img src="https://shields.io" alt="Tiktok"/>
   </a>
   
-  <a href="mailto:YOUR-EMAIL">
-    <img src="https://shields.io" alt="Email Me"/>
+  <a href="https://www.instagram.com/massivemango__0?igsh=ZWR5cjJnenFrY25p">
+    <img src="https://shields.io" alt="Instagram"/>
   </a>
 </div>
