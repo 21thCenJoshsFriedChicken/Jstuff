@@ -5,7 +5,7 @@
 # Social Media
 
 - Youtube:
-Subscribers: https://img.shields.io/youtube/channel/subscribers/:UCZRk0ZNy6bBm-eMiBQmSWLg
+- Subscribers: https://img.shields.io/youtube/channel/subscribers/:UCZRk0ZNy6bBm-eMiBQmSWLg
 
 - Instagram:
 
